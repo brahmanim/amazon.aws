@@ -245,3 +245,5 @@ amazon.aws.rds_cluster_info:
         device_type: "Cluster"
       }
     }
+
+# GHA
